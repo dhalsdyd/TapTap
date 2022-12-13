@@ -18,7 +18,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.develop.taptap.navigation.Screens
+import com.develop.taptap.utils.navigation.Screens
 import com.develop.taptap.screens.login.LoginScreen
 import com.develop.taptap.ui.theme.TapTapTheme
 import com.develop.taptap.utils.GoogleLoginUtils
